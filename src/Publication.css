@@ -1,0 +1,14 @@
+.Publication
+{
+    border: black;
+    border-style: solid;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.buttonLikeb
+{
+    
+    justify-content: center;
+    display: flex;
+}

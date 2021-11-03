@@ -1,0 +1,40 @@
+.Profil{
+    
+    border: black;
+    border-style: solid;
+    margin-right: 500px;
+    margin-left: 500px;
+
+
+}
+
+.titre{
+    color: blue;
+    justify-content: center;
+    display: flex;
+}
+
+.img{
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+
+ 
+}
+.prenom
+{
+    justify-content: center;
+    display: flex;
+}
+.nom
+{
+    justify-content: center;
+    display: flex;
+}
+
+.anniversaire
+{
+    justify-content: center;
+    display: flex;
+}
+

@@ -1,0 +1,13 @@
+.button{
+  
+  width: 15%;
+  font-size: 18px;
+  
+}
+
+.bannière{
+  display: flex;
+  justify-content: center;
+  margin-left: 900px;
+  
+}
